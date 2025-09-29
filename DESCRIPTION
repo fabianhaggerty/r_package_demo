@@ -1,5 +1,5 @@
-Package: <textmulti>
-Title: <Text Multiplier>
+Package: textmulti
+Title: Text Multiplier
 Version: 0.0.1
 Authors@R: c(
   person(given = Fabian, family = Haggerty, role = c("aut", "cre"), email = fabian.haggerty@campus.lmu.de)
