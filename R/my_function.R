@@ -8,6 +8,12 @@
 #'
 #' @param n An integer specifying how many times to print the text.
 #'
+#' @return `string`
+#'
+#' @examples
+#' print_string_n_times("Hello, World!", 3)
+#'
+#'
 #' @export
 
 print_string_n_times <- function(text, n) {
