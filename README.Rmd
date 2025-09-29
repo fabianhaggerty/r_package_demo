@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
-[![r-cmd-check](../../workflows/r-cmd-check/badge.svg)](../../actions/workflows/r-cmd-check.yml)
+[![r-cmd-check](https://github.com/fabianhaggerty/r_package_demo/workflows/r-cmd-check/badge.svg)](https://github.com/fabianhaggerty/r_package_demo/actions/workflows/r-cmd-check.yml)
 
 <!-- badges: end -->
 (Note: you will need to put in absolute paths if you want this to work with pkgdown!)
@@ -29,5 +29,6 @@ tbd
 ## Examples
 
 ```{r}
+library(textmulti)
 print_string_n_times("Hello, World!", 3)
 ```
